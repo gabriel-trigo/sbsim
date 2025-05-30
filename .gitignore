@@ -16,3 +16,5 @@ smart_control/reinforcement_learning/experiment_results/
 smart_control/reinforcement_learning/eval_results/
 smart_control/reinforcement_learning/test.py
 smart_control/reinforcement_learning/test.ipynb
+smart_control/reinforcement_learning/plots
+smart_control/reinforcement_learning/experiment_scripts/
